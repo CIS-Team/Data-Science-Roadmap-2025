@@ -48,7 +48,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 #### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
 #### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
 
-:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access.:hibiscus:</i>
+:bell: For Data Camp courses, github student pack gives 3 free months. Google how to get it.<br> <i>if you already used it, do not hesitate to contact us to have an account with free access. :hibiscus:</i>
   
 
 ## Legend
@@ -65,17 +65,18 @@ more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
 **1. Descriptive Statistics** <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> <br>
-&emsp;&emsp;&emsp;📹 [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Same Course [on YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)<br>
-&emsp;&emsp;&emsp;📹 [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
+&emsp;&emsp;&emsp;📹 [Introduction to Statistics - DataCamp](https://app.datacamp.com/learn/courses/introduction-to-statistics)<br>
+&emsp;&emsp;&emsp;📹 [Intro to Descriptive Statistics - YouTube](https://www.youtube.com/watch?v=ApEV6IupW7o&list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1&index=1) old Udacity Course<br>
+&emsp;&emsp;&emsp;📹 [Statistics Fundamentals - StatQuest - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
+&emsp;&emsp;&emsp;📹 [Introduction to Statistics - YouTube](https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR)<br>
 &emsp;&emsp;&emsp;📕 [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
-&emsp;&emsp;&emsp;📕 Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
-&emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
+&emsp;&emsp;&emsp;📹 Arabic Courses [1](https://www.youtube.com/watch?v=_Lg1QtwZHvk&list=PLO3fADoO5fwNTr4Zjmz-cacmMh1S0o4Ml&index=1) - [2](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
 &emsp;&emsp;&emsp;📹 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
 &emsp;&emsp;&emsp;📕 [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
 
 **2. Probability**<br>
 &emsp;&emsp;&emsp;📹 [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
-&emsp;&emsp;&emsp;📹 [Probability Bootcamp by Dr.Steve - Oct 2024- Youtube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)<br>
+&emsp;&emsp;&emsp;📹 [Probability Bootcamp by Dr.Steve - Oct 2024- YouTube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)<br>
 &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
 &emsp;&emsp;&emsp;📹 [Probability and Statistics for AI and DS - Arabic (Dr.Hatem Elattar)](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)<br>
 &emsp;&emsp;&emsp;📕 [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
@@ -83,8 +84,8 @@ more interesting bits.</i><br>
 **3. Programming Languages**<br>
 
 &emsp;🔹*R* - *good tool for visualization and statistical analysis.*<br>
-        &emsp;&emsp;&emsp;📹 [Introduction to R (Datacamp)](https://www.datacamp.com/courses/free-introduction-to-r)<br>
-        &emsp;&emsp;&emsp;📹 [Data Science Specialization - coursera](https://www.coursera.org/specializations/jhu-data-science)<br>
+        &emsp;&emsp;&emsp;📹 [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)<br>
+        &emsp;&emsp;&emsp;📹 [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science)<br>
         &emsp;&emsp;&emsp;📕 [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)<br>
         &emsp;&emsp;&emsp;📕 [R for Data Science](https://r4ds.had.co.nz/)<br>
 
@@ -96,15 +97,16 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;📕 [Intro to Python for CS and Data Science](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ)<br>
         &emsp;&emsp;&emsp;[more in OOP](https://www.futurelearn.com/courses/object-oriented-principles)<br>
 **4. Pandas**<br>
-        &emsp;&emsp;&emsp;📹 [Corey Schafer-Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
+        &emsp;&emsp;&emsp;📹 [Corey Schafer-YouTube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)<br>
         &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp;📕 [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
-        &emsp;&emsp;&emsp;📹 [Data School-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
+        &emsp;&emsp;&emsp;📹 [Data School-YouTube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
         &emsp;&emsp;&emsp;📹 PandasAI🐼[1](https://www.youtube.com/watch?v=BtmMNZLxbuI) - [2](https://www.youtube.com/watch?v=5w6eZaoDVVk) *Enhances the capabilities of Pandas by integrating Generative AI functionalities into it.* <br>
 **5. Numpy**<br>
         &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) &emsp;<img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/><br>
-        &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
+        &emsp;&emsp;&emsp;📹 [NumPy Tutorial by Keith Galli - YouTube](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
+        &emsp;&emsp;&emsp;📹 [Arabic Course - Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoatsJCH-DmieQhqhSL2WBvlm-)<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
         &emsp;&emsp;&emsp;📕 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
 **6. Scipy**<br>
@@ -138,16 +140,17 @@ Note: it's already mentioned in the above probability course <br>
 **10. Dashboards**<br>
 
 &emsp;*Power BI*<br>
-        &emsp;&emsp;&emsp;📹 [Power BI - Youtube (Alex)](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
+        &emsp;&emsp;&emsp;📹 [Power BI - YouTube (Alex)](https://youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&si=pR4VSrR1P2O-AaBJ)<br>
         &emsp;&emsp;&emsp;📹 [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
-        &emsp;&emsp;&emsp;📹 [Arabic - Youtube (Zanoon)](https://www.youtube.com/watch?v=P_Nr0FMyn9w&list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63&index=1)<br>
-        &emsp;&emsp;&emsp;📹 [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-        &emsp;&emsp;&emsp;📹 [Guy in a Cube - Youtube](https://www.youtube.com/@GuyInACube/featured)<br>
+        &emsp;&emsp;&emsp;📹 [Arabic - YouTube (Zanoon)](https://www.youtube.com/watch?v=P_Nr0FMyn9w&list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63&index=1)<br>
+        &emsp;&emsp;&emsp;📹 [Arabic - YouTube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
+        &emsp;&emsp;&emsp;📹 [Guy in a Cube - YouTube](https://www.youtube.com/@GuyInACube/featured)<br>
  &emsp;*Tableau* <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/><br>
+        &emsp;&emsp;&emsp;📹 [Data With Baraa - YouTube](https://www.youtube.com/watch?v=_TT1D3tH1_c&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-        &emsp;&emsp;&emsp;📹 [docs](https://www.tableau.com/learn/training/20201)<br>
-        &emsp;&emsp;&emsp;📹 [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-        &emsp;&emsp;&emsp;📹 [Simplilearn - Youtube](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;📹 [Tableau Training](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;📹 [Course - DataCamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;📹 [Simplilearn - YouTube](https://www.youtube.com/watch?v=SSq5NwsUNGI&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC)<br>
 
 
 **11. SQL and DB**<br>
@@ -155,12 +158,13 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;📹 [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
          &emsp;&emsp;&emsp;📹 Arabic Course ([Theoritical](https://www.youtube.com/playlist?list=PL37D52B7714788190) - [Practical](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)) Eldesouki<br>
-         &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *[[Notes]](https://relic-dimple-eee.notion.site/SQL-c11692abdd894c89ab73d82545db0e63?pvs=4)📋*- [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
+         &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *([Labs Answers + Notes + Full Materials](https://github.com/Moataz-Elmesmary/ITI-SQL-Labs))*<br>
          &emsp;&emsp;&emsp;📹 Arabic - [SQL for Data Analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=38s) by Ahmed Sami<br>
+         &emsp;&emsp;&emsp;📹 [Data With Baraa - YouTube](https://www.youtube.com/@DataWithBaraa/playlists) - [[Materials]](https://datawithbaraa.substack.com/p/access-to-course-materials)<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
          &emsp;&emsp;&emsp;📹 [CMU Intro to DB - Fall 2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - *<[Schedule📅](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)>* - [Book📕](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)<br>
          &emsp;&emsp;&emsp;📕 [SQL for Data Analysis](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/SQL%20for%20Data%20Analysis.pdf)<br>
-         &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
+         &emsp;&emsp;&emsp;📝 Practice [InterviewMaster](https://www.interviewmaster.ai/) & [HackerRank](https://www.hackerrank.com/domains/sql) & [LeetCode](https://leetcode.com/studyplan/top-sql-50/) & [DataLemur](https://datalemur.com/)
 
 **12. DWH** : *A system used for reporting - A core component of business intelligence.*<br>
 &emsp;&emsp;&emsp;&emsp; *Mostly used by Data Engineers.*<br>
@@ -179,6 +183,9 @@ Note: it's already mentioned in the above probability course <br>
 
 **13. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;📕 [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
+        &emsp;&emsp;&emsp;📹 [Regular Expressions by Corey - YouTube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
+        &emsp;&emsp;&emsp;📹 [Arabic Course - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) *starting from the 95th video.* <br>
+
 **14. Time Series Analysis**<br>
          &emsp;&emsp;&emsp;📹 [Track - DataCamp](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
          &emsp;&emsp;&emsp;📹 [Course - Coursera](https://www.coursera.org/learn/practical-time-series-analysis)<br>
@@ -443,6 +450,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 
         
 ***
+<p align="center"><strong> Interview Preparation: Your Roadmap to Success 🚀 </strong></p>
+
 <b> 📓 Data Science Interview Questions: </b> :arrow_forward:
 &emsp; - [(1)](https://github.com/youssefHosni/Data-Science-Interview-Questions)
 &emsp;- [(2)](https://github.com/alexeygrigorev/data-science-interviews)
@@ -450,7 +459,8 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;- [(4)](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 &emsp;- [(5)](https://github.com/milaan9/DataScience_Interview_Questions)
 &emsp;- [(6) Arabic Podcast](https://www.youtube.com/watch?v=YjloQOreudk):headphones:<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:<br>	
+<b> 🚀 Practical Interview Questions from Actual Companies:</b> [Data Analysis](https://prepare.sh/interviews/data-analysis) & [Data Engineering](https://prepare.sh/interviews/data-engineering) by <i>@Prepare.sh</i>.
 
 ***
 <img align="right" width="190" height="145" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/251a2659-c71e-4051-b431-2e93f8ce4187">
